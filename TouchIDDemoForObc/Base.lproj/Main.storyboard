@@ -44,9 +44,6 @@
                                     <action selector="ClickButton:" destination="W0k-gW-HXn" eventType="touchUpInside" id="UE2-Kx-cV6"/>
                                 </connections>
                             </button>
-                            <slider opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="2qK-3P-i4R">
-                                <rect key="frame" x="209" y="412" width="118" height="31"/>
-                            </slider>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
